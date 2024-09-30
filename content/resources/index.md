@@ -6,10 +6,10 @@ Governance resources, like proposals and policies are stored here in the /resour
 
 Policies created by roles with delegated policymaking authority are recorded in the /policies directory.
 
-- [Policy Directory](/resources/policies/index.md)
+- [Policy Directory](/resources/policies/)
 
 ## Proposals
 
 Proposals submitted to community governance are recorded in the /proposals directory.
 
-- [Proposal Directory](/resources/proposals/index.md)
+- [Proposal Directory](/resources/proposals/)

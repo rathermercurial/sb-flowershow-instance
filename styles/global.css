@@ -59,7 +59,7 @@ html {
   transform: translateY(-50%);
   margin: auto 0;
   border-radius: 5px;
-  background: #A64B2A;
+  background: #1e293b;
   opacity: 0;
   transition: opacity 0.2s;
 }
@@ -67,7 +67,7 @@ html {
 #mdx-page .light .heading-link {
   /* border: 1px solid #ab2b65; */
   /* background: none; */
-  background: #EAE7B1;
+  background: #e2e8f0;
 }
 
 #mdxpage :is(h2, h3, h4, h5, h6):hover .heading-link {
